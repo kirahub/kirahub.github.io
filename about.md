@@ -7,6 +7,8 @@ aside:
 key: page-about
 ---
 
+![about.png](https://i.loli.net/2020/12/17/uXf6LbOIndjl4H2.png)
+
 ## 増本綺良
 
 
