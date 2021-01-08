@@ -67,5 +67,8 @@ key: page-profile
 ### Nobody's Fault 个人PV
 <div>{%- include extensions/bilibili.html id='543024310' page='13' -%}</div>
 
+### SHOWROOM直播 2020.12.27
+<div>{%- include extensions/bilibili.html id='628615784' page='1' -%}</div>
+
 ## 贡献
 内容新增或修改请私信微博[@增本绮良](https://weibo.com/u/7303184288)或提出[Issue](https://github.com/kirahub/kirahub.github.io/issues)
