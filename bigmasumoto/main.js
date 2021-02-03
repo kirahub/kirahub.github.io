@@ -202,7 +202,7 @@ window.boot = function() {
     if (false) {
         BK.Script.loadlib();
     } else {
-        var bundledScript = settings.debug ? 'src/project.dev.js' : 'src/project.js';
+        var bundledScript = settings.debug ? 'bigmasumoto/src/project.dev.js' : 'bigmasumoto/src/project.js';
         if (jsList) {
             jsList = jsList.map(function(x) {
                 return 'src/' + x;
@@ -226,8 +226,8 @@ window.boot = function() {
 
     // init assets
     cc.AssetLibrary.init({
-        libraryPath: 'res/import',
-        rawAssetsBase: 'res/raw-',
+        libraryPath: 'bigmasumoto/res/import',
+        rawAssetsBase: 'bigmasumoto/res/raw-',
         rawAssets: settings.rawAssets,
         packedAssets: settings.packedAssets,
         md5AssetsMap: settings.md5AssetsMap,
