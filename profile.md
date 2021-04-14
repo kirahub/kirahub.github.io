@@ -13,7 +13,7 @@ key: page-profile
 
 ## 简介
 {:refdef: style="text-align: center;"}
-![1st_profile_photo.jpg](https://i.loli.net/2020/12/17/RBu9kagqjAybtDK.jpg "公式照"){:height="30%" width="30%" .shadow}
+![2nd_profile_photo.jpg](https://i.loli.net/2021/04/14/8iMHDCPOdlNxfcv.jpg "公式照"){:height="30%" width="30%" .shadow}
 {:refdef}
 &nbsp;&nbsp;&nbsp;&nbsp;增本绮良（日语：増本綺良/ますもと きら），兵库县出身，为女子偶像组合[櫻坂46](https://sakurazaka46.com/s/s46/)成员。2018年8月20日通过坂道联合甄选，SHOWROOM号码为70号，昵称为どろかつ。2019年9月7日个人资料登上[坂道研修生](https://sakamichi-kenshusei.com/s/sk01/artist/9)官网，并开始坂道研修生巡演。2020年2月16日成为欅坂46新二期生，随团队展开活动。2020年10月14日，欅坂46更名为櫻坂46，成为櫻坂46二期生。
 
@@ -31,13 +31,18 @@ key: page-profile
 - 不擅长的科目：数学、英语、世界史
 
 ## 参与歌曲
-### 单曲
-#### 欅坂46
+
+### 欅坂46
+#### Last Single 「誰がその鐘を鳴らすのか？」
 - 誰がその鐘を鳴らすのか？
 
-#### 櫻坂46
-- なぜ 恋をして来なかったんだろう？ (Nobody's fault)
-- Plastic regret (Nobody's fault)
+### 櫻坂46
+#### 1st Single 「Nobody's fault」
+- なぜ 恋をして来なかったんだろう？
+- Plastic regret
+#### 2nd Single 「BAN」
+- 思ったよりも寂しくない
+- それが愛なのね
 
 ## 链接
 - [欅坂46 MEMBER页面](https://www.keyakizaka46.com/s/k46o/artist/57)
