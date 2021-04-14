@@ -40,6 +40,7 @@ key: page-profile
 #### 1st Single 「Nobody's fault」
 - なぜ 恋をして来なかったんだろう？
 - Plastic regret
+
 #### 2nd Single 「BAN」
 - 思ったよりも寂しくない
 - それが愛なのね
